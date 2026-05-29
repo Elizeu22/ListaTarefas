@@ -7,13 +7,19 @@ com Swagger.
 
 Funcionalidades
 Criar tarefa
+
 Listar tarefas
+
 Atualizar tarefa
+
 Excluir tarefa
 
 
 Tecnologias Utilizadas
 ASP.NET Core
+
 Entity Framework Core
+
 SQL Server
+
 Swagger
